@@ -1,0 +1,6 @@
+CREATE TABLE game (
+id INT NOT NULL AUTO_INCREMENT,
+name TEXT,
+points INT,
+PRIMARY KEY (Id)
+);
